@@ -431,6 +431,7 @@
   "CustomThemePathTooltip": "自定义主题的目录",
   "CustomThemeBrowseTooltip": "查找自定义主题",
   "DockModeToggleTooltip": "启用 Switch 的主机模式。\n绝大多数游戏画质会提高，略微增加性能消耗。\n在掌机和主机模式切换的过程中，您可能需要重新设置手柄类型",
+  "MenuBarShowFileTypes"："显示文件类型"
   "DirectKeyboardTooltip": "开启 \"直连键盘访问(HID)支持\"\n（部分游戏可以使用您的键盘输入文字）",
   "DirectMouseTooltip": "开启 \"直连鼠标访问(HID)支持\"\n（部分游戏可以使用您的鼠标导航）",
   "RegionTooltip": "更改系统区域",
